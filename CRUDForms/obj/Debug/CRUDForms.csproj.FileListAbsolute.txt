@@ -1,0 +1,10 @@
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\bin\Debug\CRUDForms.exe.config
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\bin\Debug\CRUDForms.exe
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\bin\Debug\CRUDForms.pdb
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\obj\Debug\CRUDForms.csproj.AssemblyReference.cache
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\obj\Debug\CRUDForms.Form1.resources
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\obj\Debug\CRUDForms.Properties.Resources.resources
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\obj\Debug\CRUDForms.csproj.GenerateResource.cache
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\obj\Debug\CRUDForms.csproj.CoreCompileInputs.cache
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\obj\Debug\CRUDForms.exe
+C:\Users\kvenk\source\repos\CRUDForms\CRUDForms\obj\Debug\CRUDForms.pdb
